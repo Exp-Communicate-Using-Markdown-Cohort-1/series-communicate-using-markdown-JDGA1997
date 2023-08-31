@@ -6,3 +6,9 @@
 # Encabezado 4
 # Encabezado 5
 # Encabezado 6
+
+
+```
+ $ git inicio
+ Repositorio Git vacío inicializado en /Users/skills/Projects/recipe-repository/.git/
+ ```
