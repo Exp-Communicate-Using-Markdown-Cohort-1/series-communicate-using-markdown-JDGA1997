@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # Encabezado 1
 # Encabezado 2
 # Encabezado 3
